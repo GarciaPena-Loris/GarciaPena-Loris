@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Garcia Pena Loris
-- 👀 I’m interested in programmation and security
-- 🌱 I’m currently learning security and AI
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in programmation since 2018
+- 🌱 I’m currently learning software engineering and management
+- 💞️ I’m working at Free Mobile since 2024
 - 📫 How to reach me loris.garciapena@hotmail.com
 
 <!---
